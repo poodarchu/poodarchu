@@ -2,6 +2,9 @@
 
 Please refer to http://benjinzhu.com/ for more details.
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=poodarchu&show_icons=true&include_all_commits=true&count_private=true"/> </p> 
+
+
 <!--
 **poodarchu/poodarchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
