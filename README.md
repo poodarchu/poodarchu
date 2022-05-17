@@ -1,6 +1,6 @@
 ### Hi there 
 
-Please refer to https://benjinzhu.com/ for more details.
+Please refer to http://benjin.me/ for more details.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=poodarchu&show_icons=true&include_all_commits=true&count_private=true"/> </p> 
 
